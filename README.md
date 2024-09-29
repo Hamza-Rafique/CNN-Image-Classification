@@ -3,6 +3,7 @@
 This project uses a Convolutional Neural Network (CNN) to classify images using the CIFAR-10 dataset. The dataset contains 60,000 32x32 color images in 10 different classes. The model is trained using the TensorFlow and Keras libraries.
 
 ## Project Structure
+```python
 
 CNN-Image-Classification/
 │
@@ -26,6 +27,7 @@ CNN-Image-Classification/
 ├── requirements.txt        # List of dependencies (tensorflow, keras, numpy, etc.)
 ├── README.md               # Project description and setup instructions
 
+```
 # Project description and setup instructions
 
 ## Libraries Used
